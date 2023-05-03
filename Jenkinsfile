@@ -25,7 +25,7 @@ node {
     println JWT_KEY_CRED_ID
     println HUB_ORG
     println SFDC_HOST
-    println CONNECTE_APP_CONSUMER_KEY
+    println CONNECTED_APP_CONSUMER_KEY
     def toolbelt = tool 'toolbelt'
 
 
